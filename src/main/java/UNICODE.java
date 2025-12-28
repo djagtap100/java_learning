@@ -10,7 +10,6 @@ public class UNICODE
         char ra ='\u0930';
         char velanti ='\u093F';
         System.out.println(""+dh+martra+ra+rafar+ya+she+velanti+el);
-
         char ai ='\u0910';
         char sha ='\u0936';
         char va ='\u094D';
